@@ -85,8 +85,10 @@ SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VafEBFX2Jl8DSYclsS08"
 <b>Version -> 1.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-Always trust in God
-My name Is Mungai Yobih
-Believe in yourself
-PLEASE FORK THE REPO AND GIVE A STAR ,,,MADE BY LOVE
-Brought to earth by love
+-**Always trust in God**,
+-**My name Is Mungai Yobih**,
+-**Believe in yourself**,
+-**PLEASE FORK THE REPO AND GIVE A STAR ,,,MADE BY LOVE**,
+-**Brought to earth by love**,
+
+*********************************THANKS FOR CHOSING MUNGAI-MD**********************************
