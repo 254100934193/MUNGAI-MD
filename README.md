@@ -6,10 +6,10 @@
 <p align="center">
 <img src="https://i.imgur.com/YKVlucn.jpeg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+GOJOU-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MUNGAI+YOBIH;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+MUNGAI-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MUNGAI+YOBIH;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MUNGAI_Yobih-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
@@ -85,3 +85,8 @@ SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VafEBFX2Jl8DSYclsS08"
 <b>Version -> 1.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+Always trust in God
+My name Is Mungai Yobih
+Believe in yourself
+PLEASE FORK THE REPO AND GIVE A STAR ,,,MADE BY LOVE
+Brought to earth by love
