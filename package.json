@@ -1,5 +1,5 @@
 {
-  "name": "Gojou-MD",
+  "name": "Mungai-MD",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Gojou-MD",
+    "Mungai-Md",
     "whatsapp",
     "whatsapp-bot",
-    "David Cyril",
-    "Gojou-MD",
+    "Mungai Yobih",
+    "Mungai-MD",
     "DeeCeeXxx",
-    "Gojou-MD"
+    "Mungai-MD"
   ],
-  "author": "David Cyril",
+  "author": "Mungai Yobih",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
