@@ -1,12 +1,12 @@
   # Yobih-MD
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By Mungai Yobih⚡</u>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/YKVlucn.jpeg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+GOJOU-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+GOJOU-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MUNGAI+YOBIH;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
@@ -28,6 +28,8 @@
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Yobih-MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z) for more**
 9. **All Tutorials Are `COMING SOON`**
+10. **ALWAYS RESPECT MUNGAI YOBIH**
+11. **MUNGAI MD FOREVER**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -43,26 +45,29 @@
 # 
 Yobih-MD is a easy to use WhatsApp bot. 
 
-      Yobih-MD whatsapp bot is an easy to use whatsapp robot.   |  Itachi Uchiha whatsapp bot
+      Yobih-MD whatsapp bot is an easy to use whatsapp robot.   |  Mungai Yobih whatsapp bot
 # 
 # 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Gojou-MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
+* [🧑‍💻 Follow Mungai-Yobih Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
 
-* [🧑‍💻 Join Gojou-Md Group 🧑‍💻](https://t.me/hacktivisthive)
+* [🧑‍💻 Join Mungai-Yobih whatsapp group,,Comming soon
 
 * [✅ Join Public Group ⚡](https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-      ⚠️ We are not responsible for any inconvenience caused by your mistakes!
+      ⚠️ We are not responsible for any inconvenience caused by your mistakes MUNGAI!
   
 ## 
 
 - *Yobih-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Yobih-MD at your own risk by keeping this warning in mind.*
+- *Made by love.*
+- *call me Mungai-MD.*
+- *Mungai MD Loves you all.*
   
   #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
