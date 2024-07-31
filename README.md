@@ -23,7 +23,7 @@
 ## Yobih-MD Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Gojou-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://the-flash-md-sessions.onrender.com/pair) 
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://faq.whatsapp.com/1324084875126592/?helpref=uf_share) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Yobih-MD)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z) for more**
