@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: CASPER-XD-ULTRA
+    name: MUNGAI-MD
     runtime: node
     plan: free
     buildCommand: npm install --production
@@ -13,7 +13,7 @@ services:
       - key: OWNER_NAME
         value: XyrooRynzz
       - key: BOT_NAME
-        value: CASPER-XD ULTRA
+        value: MUNGAI MD
       - key: BOT_MODE
         value: public
       - key: PREFIX
@@ -29,6 +29,6 @@ services:
       - key: AUTO_REACT
         value: "false"
       - key: PACK_NAME
-        value: CASPER-XD ULTRA
+        value: MUNGAI MD
       - key: STICKER_AUTHOR
         value: "© XyrooRynzz"
