@@ -26,9 +26,9 @@
   <line x1="50" y1="140" x2="750" y2="140" stroke="url(#accentGrad)" stroke-width="1"/>
   <circle cx="70" cy="80" r="35" fill="none" stroke="url(#textGrad)" stroke-width="2.5" filter="url(#glow)"/>
   <text x="70" y="90" text-anchor="middle" fill="url(#textGrad)" font-family="Arial,sans-serif" font-weight="bold" font-size="22" filter="url(#glow)">CXU</text>
-  <text x="420" y="75" text-anchor="middle" fill="url(#textGrad)" font-family="Arial,sans-serif" font-weight="bold" font-size="42" letter-spacing="4" filter="url(#glow)">CASPER-XD ULTRA</text>
+  <text x="420" y="75" text-anchor="middle" fill="url(#textGrad)" font-family="Arial,sans-serif" font-weight="bold" font-size="42" letter-spacing="4" filter="url(#glow)">MUNGAI-MD</text>
   <text x="420" y="110" text-anchor="middle" fill="#8892a8" font-family="Arial,sans-serif" font-size="16" letter-spacing="6">MULTI-DEVICE WHATSAPP BOT</text>
-  <text x="420" y="170" text-anchor="middle" fill="#5a6580" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">CASPER TECH KENYA DEVELOPERS</text>
+  <text x="420" y="170" text-anchor="middle" fill="#5a6580" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">DEV.MUNGAI YOBIH</text>
   <circle cx="160" cy="30" r="3" fill="#00c896" opacity="0.5"/>
   <circle cx="600" cy="25" r="2" fill="#00b4d8" opacity="0.4"/>
   <circle cx="730" cy="50" r="2.5" fill="#00c896" opacity="0.3"/>
