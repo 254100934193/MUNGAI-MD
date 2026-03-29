@@ -1,0 +1,44 @@
+modules = ["nodejs-20", "web"]
+[agent]
+expertMode = true
+
+[nix]
+channel = "stable-25_05"
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Start application"
+
+[[workflows.workflow]]
+name = "Start application"
+author = "agent"
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "node index.js"
+waitForPort = 5000
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[deployment]
+deploymentTarget = "autoscale"
+run = ["node", "index.js"]
+
+[userenv]
+
+[userenv.shared]
+BITBUCKET_TOKEN = "ATATT3xFfGF0s-dZf4mO9T2Ah_btV7aVEbXGkUVrDRdNW_mJmGEU1chogEXKfalv_J00wotcHdYnfYSgOAYSHY4zBpn4AG_dw0jOYrRgJ0SmPrRBW1_1yhNhsNn8AtIwN8LopjsHTBBCRvvAgPE4WbkoqZHQCsbNwAGGIktfkQXK08BKt8wxrTo=C8E9AAAA"
+BITBUCKET_USER = "caspertechke-admin"

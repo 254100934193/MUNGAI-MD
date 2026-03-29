@@ -1,0 +1,11 @@
+node_modules/
+.cache/
+.local/
+.npm/
+.db_backup/
+npm/
+src/
+build.js
+replit.md
+.replit
+package-lock.json
