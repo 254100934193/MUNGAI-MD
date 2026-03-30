@@ -76,9 +76,11 @@
       "required": false
     }
   },
+ 
   "buildpacks": [
     {
       "url": "heroku/nodejs"
     }
-  ]
+  ],
+  "stack": "heroku-24"
 }
