@@ -1,8 +1,8 @@
 {
-  "name": "CASPER-XD ULTRA",
-  "description": "Multi-Device WhatsApp Bot by CASPER TECH KENYA DEVELOPERS",
-  "repository": "https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA",
-  "logo": "https://files.catbox.moe/qbcebp.jpg",
+  "name": "MUNGAI MD BOT",
+  "description": "Multi-Device WhatsApp Bot by DEV MUNGAI YOBIH",
+  "repository": "https://github.com/254100934193/MUNGAI-MD",
+  "logo": "https://telegra.ph/file/d0cd3c82fbbc120f38ac4.jpg",
   "keywords": ["whatsapp", "bot", "casper", "multi-device"],
   "stack": "container",
   "formation": {
@@ -13,7 +13,7 @@
   },
   "env": {
     "SESSION": {
-      "description": "WhatsApp session string (get from https://Pairing.xcasper.space)",
+      "description": "WhatsApp session string",
       "required": true
     },
     "OWNER_NUMBERS": {
@@ -27,7 +27,7 @@
     },
     "BOT_NAME": {
       "description": "Bot display name",
-      "value": "CASPER-XD ULTRA",
+      "value": "MUNGAI MD",
       "required": false
     },
     "BOT_MODE": {
@@ -67,7 +67,7 @@
     },
     "PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "CASPER-XD ULTRA",
+      "value": "MUNGAI BOT",
       "required": false
     },
     "STICKER_AUTHOR": {
